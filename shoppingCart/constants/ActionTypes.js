@@ -1,0 +1,8 @@
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const CHECKOUT_REQUEST = 'CHECKOUT_REQUEST'	//付款
+export const CHECKOUT_SUCCESS = 'CHECKOUT_SUCCESS'	//支付成功
+export const CHECKOUT_FAILURE = 'CHECKOUT_FAILURE'	//支付失败
+export const RECEIVE_PRODUCTS = 'RECEIVE_PRODUCTS'	//收到商品
+
+export const INCREMENT_TO_PRODUCT = 'INCREMENT_TO_PRODUCT'	//increment
+export const DECREMENT_TO_PRODUCT = 'DECREMENT_TO_PRODUCT' //decrement
